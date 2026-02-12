@@ -1,0 +1,17 @@
+# Source files (dist is published)
+src/
+scripts/
+
+# Exclude SVG source folder from npm package
+svg/
+.svelte-kit/
+
+# Config files
+tsconfig*.json
+.gitignore
+svelte.config.js
+
+# Development
+node_modules/
+.DS_Store
+*.log
