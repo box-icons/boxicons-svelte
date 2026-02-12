@@ -6,7 +6,7 @@ dist/
 .svelte-kit/
 
 # Source SVG (if present)
-svg/
+
 
 # Generated source files
 src/icons/
